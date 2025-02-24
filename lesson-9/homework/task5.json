@@ -1,0 +1,5 @@
+[
+    {"id": 1, "task_name": "Do laundry", "completed": false, "priority": 3},
+    {"id": 2, "task_name": "Buy groceries", "completed": true, "priority": 2},
+    {"id": 3, "task_name": "Finish homework", "completed": false, "priority": 1}
+]
