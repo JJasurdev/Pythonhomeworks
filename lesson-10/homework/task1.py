@@ -1,7 +1,7 @@
 import requests
 
 # OpenWeatherMap API URL
-API_KEY = '593a40862fbec84752e52745926a8521'  
+API_KEY = 'secret'  
 CITY = 'Tashkent'
 URL = f'http://api.openweathermap.org/data/2.5/weather?q={Toshkent}&appid={}&units=metric'
 
